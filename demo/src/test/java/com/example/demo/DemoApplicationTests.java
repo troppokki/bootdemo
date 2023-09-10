@@ -8,6 +8,7 @@ class DemoApplicationTests {
 
 	@Test
 	void contextLoads() {
+		//여기 코드를 입력합니다.
 	}
 
 }
