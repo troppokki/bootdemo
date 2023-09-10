@@ -11,6 +11,4 @@ class DemoApplicationTests {
 		//여기 코드를 입력합니다.
 	}
 //정상 commit push가 됩니까ㅣ?
-
-	//임의 수정
 }
